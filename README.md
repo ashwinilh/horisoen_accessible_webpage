@@ -8,5 +8,8 @@ This is a new repo for challenge 1
 6. replaced semantic article element instead of div having class name of content.
 7. replaced semantic section element instead of div having class name of search-engine-optimization.
 8. added search-engine-optimization class attribute to section having id search-engine-optimization.
-9. replaced 3 div elements instead of section elements under article tag.
+9. replaced 3 div elements by section elements under article tag.
 10. added three alt attributed for all three imaged under article element.
+11. replaced  div element with class benifits with sematic aside element.
+12. replaced div element with class footer with sematic footer element.
+13. replaced h2 in footer with <p> element.
